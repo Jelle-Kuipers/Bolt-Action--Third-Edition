@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="sys-ef51-f30b-7dee-7797" name="Bolt Action: Third Edition" battleScribeVersion="2.03" revision="1" type="gameSystem" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="sys-ef51-f30b-7dee-7797" name="Bolt Action: Third Edition t" battleScribeVersion="2.03" revision="1" type="gameSystem" xmlns="http://www.battlescribe.net/schema/gameSystemSchema" authorName="Jelly" authorContact="Jelle-Kuipers, Jelle30kuipers at gmail dot com">
   <categoryEntries>
     <categoryEntry name="Default Category" id="default-category"/>
   </categoryEntries>
